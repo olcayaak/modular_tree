@@ -1,0 +1,13 @@
+{
+  "name": "orb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Run expo start here'",
+    "test": "echo 'No tests defined'"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.4"
+  }
+}
